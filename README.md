@@ -133,9 +133,10 @@ php তে ভেরিয়েবল লেখার নিয়ম কি কি
 
 </details>
 
-<details>
+<details> 
+
 <summary>
-#### PHP তে type কি কি
+PHP তে type কি কি
 
 </summary>
 
