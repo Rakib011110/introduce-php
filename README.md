@@ -21,7 +21,7 @@ PHP এর সাহায্যে ওয়েব সাইট ডাইনা
  What i have to know about PHP (click)  ??
 
 </summary>
-Certainly! Here's a step-by-step list of what you need to learn in PHP programming:
+ Here's a step-by-step list of what i have to learn in PHP programming:
 
 **Step 1: Introduction to PHP**
 
