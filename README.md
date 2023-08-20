@@ -12,9 +12,11 @@ PHP এর সাহায্যে ওয়েব সাইট ডাইনা
 
 </details>
 
+
+
 <details>
 <summary>
- What i have to know about PHP ??
+ What i have to know about PHP (click)  ??
 
 </summary>
 Certainly! Here's a step-by-step list of what you need to learn in PHP programming:
@@ -108,7 +110,7 @@ Remember that practice is essential to mastering PHP programming. As you progres
 
 <details>
 <summary>
-php তে ভেরিয়েবল লেখার নিয়ম কি কি 
+php তে ভেরিয়েবল লেখার নিয়ম কি কি  (click)
 </summary>
 
 <br >
@@ -136,7 +138,7 @@ php তে ভেরিয়েবল লেখার নিয়ম কি কি
 <details> 
 
 <summary>
-PHP তে type কি কি
+PHP তে type কি কি (click)
 
 </summary>
 
@@ -167,7 +169,7 @@ PHP এ ভেরিয়েবল ডেক্লারেশন ছাড়�
 
 <details>
 <summary>
-Arithmatic Operator
+Arithmatic Operator  (click)
 
 </summary>
 
@@ -256,7 +258,7 @@ echo " Exponentiation ans is " . $result_Exponentiation ; // Output: 8
 
 <details>
 <summary>
- What is Array
+ What is Array (click)
 
 </summary>
 
